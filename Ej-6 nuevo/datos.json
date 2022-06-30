@@ -1,0 +1,41 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "habitantes": "738959",
+                "departamentos": "19"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Neuquen",
+                "capital": "Neuquen",
+                "habitantes": "619745",
+                "departamentos": "16"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Mendoza",
+                "capital": "Mendoza",
+                "habitantes": "2086000",
+                "departamentos": "18"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Cordoba",
+                "capital": "Cordoba",
+                "habitantes": "60000",
+                "departamentos": "10"
+            }
+        }
+    ]
+}
